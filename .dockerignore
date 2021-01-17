@@ -1,0 +1,3 @@
+# when build docker images will ignore
+/checkpoints-*
+/logs*
