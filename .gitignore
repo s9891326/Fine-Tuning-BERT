@@ -6,15 +6,12 @@ venv/
 # pycharm settings
 .idea/
 
-checkpoints/
-
-datasets/
+checkpoints-*/
 
 # tensorboard logs
 logs/
 
 # testing module
-_*.py
 tmp/
 *.csv
 

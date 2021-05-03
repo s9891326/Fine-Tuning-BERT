@@ -1,3 +1,5 @@
 # when build docker images will ignore
 /checkpoints-*
 /logs*
+/serving/*
+/tensorBoard_logs/*
